@@ -6,8 +6,8 @@ Online blog documentation here: https://www.powershelladmin.com/wiki/Invoke-PsEx
 
 # Example of a PowerShell command through PsExec.exe in PowerShell
 
-!(PowerShell Invoke-PsExec example)[/Images/Invoke-PsExec-example-powershell.png]
+![PowerShell Invoke-PsExec example](/Images/Invoke-PsExec-example-powershell.png)
 
 # Example of a batch command with PsExec.exe in PowerShell
 
-!(PowerShell Invoke-PsExec example)[/Images/Invoke-PsExec-example-batch.png]
+![PowerShell Invoke-PsExec example](/Images/Invoke-PsExec-example-batch.png)
